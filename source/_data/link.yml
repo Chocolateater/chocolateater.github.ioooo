@@ -1,0 +1,25 @@
+- class_name: 小伙伴
+  flink_style: flexcard
+  hundredSuffix: ""
+  link_list:
+    - name: 黑客少年
+      link: https://heishao.me
+      avatar: https://s2.loli.net/2024/10/05/OIGU1Ygh7Qwabsq.png
+      descr: 一个建立于 21 世纪的小站，存活于互联网的边缘。
+      siteshot: https://s2.loli.net/2024/10/05/rY9DxBmSXPAyHuN.png
+    #- name: anzhiyu主题
+    #  link: https://blog.anheyu.com/
+    #  avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+    #  descr: 生活明朗，万物可爱
+    #  siteshot: https://npm.elemecdn.com/anzhiyu-theme-static@1.1.6/img/blog.anheyu.com.jpg
+
+#- class_name: 小伙伴
+#  class_desc: 那些人，那些事
+#  flink_style: anzhiyu
+#  hundredSuffix: ""
+#  link_list:
+#    - name: 安知鱼
+#      link: https://blog.anheyu.com/
+#      avatar: https://npm.elemecdn.com/anzhiyu-blog-static@1.0.4/img/avatar.jpg
+#      descr: 生活明朗，万物可爱
+#      recommend: true

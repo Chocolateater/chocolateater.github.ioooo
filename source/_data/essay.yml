@@ -1,0 +1,16 @@
+- title: 即刻短文
+  subTitle: 蒟蒻的日常。
+  tips: 随时随地，分享生活
+  buttonText: 关于我
+  buttonLink: /about/
+  limit: 30
+  home_essay: true
+  top_background: https://img02.anheyu.com/adminuploads/1/2022/08/21/630249e2df20f.jpg
+  essay_list:
+    - content: 折腾了两天，翘了集训…… 终于把博客的轮子造起来啦！
+      date: 2024/10/04
+      link: https://chocolateater.github.io/
+
+    - content: 愉快的国庆…… 写了一个新项目，支持一下？
+      date: 2024/10/03
+      link: https://chocolateater.github.io/webstack/
